@@ -166,6 +166,7 @@ footer p {
   form input {
     margin: 0;
     width: 100%;
+    padding: 0;
   }
 
   form button {
@@ -177,6 +178,7 @@ footer p {
     display: flex;
     flex-direction: column;
     margin: 10px;
+    width: 20%;
   }
 
   .group {
